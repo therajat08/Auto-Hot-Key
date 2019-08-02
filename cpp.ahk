@@ -9,3 +9,21 @@ void printArray(int arr[],int s)
     printf("\n");
 }
 )
+
+::cppbasic::
+(
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+
+    return 0;
+}
+
+
+)
+
+;printing dummy line
+::prdumline::printf("\n**********************************\n");
