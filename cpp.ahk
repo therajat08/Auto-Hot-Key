@@ -10,6 +10,20 @@ void printArray(int arr[],int s)
 }
 )
 
+
+::prvect::
+(
+void printVector(vector<int> vect)
+{
+	for(int i=0;i<vect.size();i++)
+	{
+		printf("%d ",vect.at(i));
+	}
+	printf("\n");
+}
+)
+
+
 ::cppbasic::
 (
 #include <bits/stdc++.h>
