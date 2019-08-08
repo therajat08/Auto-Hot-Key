@@ -41,3 +41,12 @@ int main()
 
 ;printing dummy line
 ::prdumline::printf("\n**********************************\n");
+
+::ipvect::
+(
+for(i=0;i<sizezOfVector;i++)
+        {
+            cin >> j;
+            cakeCalorie.push_back(j);
+        }
+)
